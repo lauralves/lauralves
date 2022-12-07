@@ -1,8 +1,9 @@
-Olá, pessoal! Bem-vindo ao meu github. 
+Olá, pessoal! Bem-vindo ao meu github, um cantinho que tem o objetivo de compartilhar meus projetos pessoais, acadêmicos e tudo que se relaciona ao meu aprendizado em desenvolvimento de software.
 
-Eu sou a Laura Alves 😊
+
+Eu me chamo Laura Alves, tenho 24 anos e sou estudante de Engenharia de Software 😊
 
 - 🔭 Atualmente estou em busca de um estágio em desenvolvimento Java
-- 🌱 Sou estudante de Engenharia de Software e estou me aperfeiçoando em Java, MySQL e Angular
+- 🌱 Estou me aperfeiçoando em Java, MySQL e Angular
 - 📫 Você pode entrar em contato através do e-mail: laura-alves1@live.com ou telefone: (91) 98562-9551
 
