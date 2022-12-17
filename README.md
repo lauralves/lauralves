@@ -3,7 +3,7 @@ Olá, pessoal! Bem-vindo ao meu github, um cantinho que tem o objetivo de compar
 
 Eu me chamo Laura Alves, tenho 24 anos e sou estudante de Engenharia de Software 😊
 
-- 🔭 Atualmente estou em busca de um estágio em desenvolvimento Java
-- 🌱 Estou me aperfeiçoando na linguagem de programação Java e framework Angular, além de banco de dados SQL
+- 🔭 Atualmente estou em busca de um estágio em desenvolvimento Java e Spring boot
+- 🌱 Estou me aperfeiçoando na linguagem de programação Java com Spring para back-end e framework Angular para front-end, além de banco de dados SQL
 - 📫 Você pode entrar em contato através do e-mail: laura-alves1@live.com ou telefone: (91) 98562-9551
 
